@@ -48,3 +48,13 @@ This confirmed the Nmap scan results.
 
 * Nmap version detection can identify software versions.
 * An open port does not automatically mean a system is vulnerable.
+
+  8. Screenshots
+  8.1  Localhost Scan
+     ![Localhost Scan](images/nmap-localhost.png)
+
+   8.2  Version Detection
+   ![Version Detection](images/nmap-version-scan.png)
+  
+  8.3  Listening Services
+   ![ss -tuln Output](images/ss-tuln-output.png) 
