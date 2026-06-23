@@ -36,5 +36,5 @@ Having fewer open ports generally reduces the number of services that could pote
 - SSH commonly uses Port 22.
 - Systems with fewer open ports generally have a smaller attack surface.
   
-5. ![Common Ports Scan](images/common ports.png)
+5. ![Common Ports Scan](images/common-ports-scan.png)
   
