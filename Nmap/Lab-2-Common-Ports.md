@@ -35,3 +35,6 @@ Having fewer open ports generally reduces the number of services that could pote
 - Closed ports indicate that no service is listening on that port.
 - SSH commonly uses Port 22.
 - Systems with fewer open ports generally have a smaller attack surface.
+  
+5. ![Common Ports Scan](images/common ports.png)
+  
