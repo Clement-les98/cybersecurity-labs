@@ -7,7 +7,9 @@ Learn how to use Nmap to identify open ports and detect running services.
 2.Environment
 
 -Ubuntu VM (VirtualBox)
+
 -Nmap installed
+
 -OpenSSH Server installed
 
 
@@ -22,8 +24,11 @@ Learn how to use Nmap to identify open ports and detect running services.
 4. Findings
 
 -Port 22/TCP was open.
+
 -SSH service was detected.
+
 -OpenSSH 7.2 was identified.
+
 -SSH Protocol 2.0 was in use.
 
 5. Analysis
@@ -33,6 +38,7 @@ Learn how to use Nmap to identify open ports and detect running services.
 6. What I Learned
 
 - Open ports indicate listening services.
+  
 -  Port 22 is commonly used for SSH.
 
 7.  Verification
@@ -42,11 +48,13 @@ The command 'ss -tuln' was used to verify that the SSH service was listening on 
 Output showed:
 
 -SSH listening on IPv4 ('*:22')
+
 -SSH listening on IPv6 (':::22')
 
 This confirmed the Nmap scan results.
 
 * Nmap version detection can identify software versions.
+  
 * An open port does not automatically mean a system is vulnerable.
 
   8. Screenshots
