@@ -1,6 +1,7 @@
 Commands Used
 
 -sudo nmap -sS localhost
+
 -nmap -sT localhost
 
 Findings
