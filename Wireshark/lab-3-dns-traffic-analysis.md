@@ -36,10 +36,10 @@ Screenshots
 
 -dns display filter in use
 
-![dns filter](images/dns-display-filter)
+![dns filter](images/dns-display-filter.png)
 
 -The expanded DNS section showing the returned IP address.
 
-![expanded DNS section](images/expanded-dns-section)
+![expanded DNS section](images/expanded-dns-section.png)
 
 
