@@ -20,13 +20,15 @@ Findings
 -The captured DHCP traffic demonstrated how devices automatically obtain network configuration when joining a network.
  The client first broadcast a Discover message to locate available DHCP servers. 
  The server responded with an Offer containing an available IP address. 
- The client then requested the offered address, and the server finalized the process by sending an ACK message confirming the lease.
+ The client then requested the offered address, and the server finalized the process by sending an ACK message      confirming the lease.
  This automatic configuration process simplifies network management and ensures that devices can communicate without manual IP configuration.
 
 Lessons Learned
 
 -DHCP automatically assigns IP addresses to network devices.
+
 -The DHCP process follows the Discover, Offer, Request, and ACK (DORA) sequence.
+
 -Wireshark can capture and analyze the DHCP lease process.
 
 Screenshots
