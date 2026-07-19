@@ -21,11 +21,11 @@ Objective
 
    -Protocol Hierachy
 
-   ![protocol hierachy](images/protocol-hierachy.png)
+   ![protocol hierachy](images/protocol-hierarchy.png)
 
    -Conversatons
 
-   ![conversations](images/conversation.png)
+   ![conversations](images/conversations.png)
 
    -Endpoints
 
